@@ -1,0 +1,14 @@
+{
+  "name": "add-number-suffix",
+  "version": "1.0.0",
+  "description": "This modules returns you the ordinal number suffix for any give number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "numbersuffix"
+  ],
+  "author": "vishnu",
+  "license": "ISC"
+}
