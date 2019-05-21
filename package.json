@@ -1,13 +1,20 @@
 {
   "name": "add-number-suffix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This modules returns you the ordinal number suffix for any give number.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vishweswaran-p/add-number-suffix"
+  },
   "keywords": [
-    "numbersuffix"
+    "numbersuffix",
+    "suffix",
+    "number",
+    "add-suffix" 
   ],
   "author": "vishnu",
   "license": "ISC"
