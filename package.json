@@ -1,6 +1,6 @@
 {
   "name": "add-number-suffix",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This modules returns you the ordinal number suffix for any give number.",
   "main": "index.js",
   "scripts": {
